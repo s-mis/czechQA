@@ -1,1 +1,1 @@
-# csQA
+# CzechQA
